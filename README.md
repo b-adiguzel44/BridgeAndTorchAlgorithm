@@ -1,6 +1,6 @@
 ## Bridge and Torch Problem
 
-The bridge and torch problem (also known as The Midnight Train[1] and Dangerous crossing[2]) is a logic puzzle that deals with four people, a bridge and a torch. It is in the category of river crossing puzzles, where a number of objects must move across a river, with some constraints.[3]
+The bridge and torch problem (also known as The Midnight Train and Dangerous crossing) is a logic puzzle that deals with four people, a bridge and a torch. It is in the category of river crossing puzzles, where a number of objects must move across a river, with some constraints.
 
 ## Story
 
